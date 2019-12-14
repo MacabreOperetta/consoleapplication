@@ -1,0 +1,6 @@
+C:\Users\Macabre\source\repos\WizKidsCase\WizKidsCase\bin\Debug\WizKidsCase.exe.config
+C:\Users\Macabre\source\repos\WizKidsCase\WizKidsCase\bin\Debug\WizKidsCase.exe
+C:\Users\Macabre\source\repos\WizKidsCase\WizKidsCase\bin\Debug\WizKidsCase.pdb
+C:\Users\Macabre\source\repos\WizKidsCase\WizKidsCase\obj\Debug\WizKidsCase.csprojAssemblyReference.cache
+C:\Users\Macabre\source\repos\WizKidsCase\WizKidsCase\obj\Debug\WizKidsCase.exe
+C:\Users\Macabre\source\repos\WizKidsCase\WizKidsCase\obj\Debug\WizKidsCase.pdb
